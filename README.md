@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khoaxtc
+- 👋 Hi, I’m Khoa D. Vo
 - 👀 I’m interested in Computer Vision, Blockchain, and Flutter
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on interested projects
